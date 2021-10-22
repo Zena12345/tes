@@ -5458,7 +5458,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("OTAxMjE1NjE1OTkyMzMyMzU4.YXMocg.3MXr9lm0p0ZeBYlX7xbx_83su60");
 jano2.login("");
 jano3.login("");
 jano4.login("");
@@ -5658,4 +5658,4 @@ jano196.login("");
 jano197.login("");
 jano198.login("");
 jano199.login("");
-jano200.login("ODk5MDY0MTQzNjcwMjg4NDA3.YWtUuw.wixUAxzcc7QZVX6GN98tv4TXYCA");
+jano200.login("");
